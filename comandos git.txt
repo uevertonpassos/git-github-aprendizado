@@ -11,3 +11,13 @@ git commit -m "Commit inicial" : cria uma nova versão
 git remote add origin + link do repositório : escolhe pra qual repositório os arquivos serão enviados 
 
 git push --set-upstream origin master : envia os arquivos para o github escolhido
+
+git reflog : mostra as versões existentes do meu código
+
+git reset --hard + tag do reflog da versão : volta pra versão selecionada
+
+git branch : verifica as branchs disponíveis
+
+git branch + nome : cria uma branch com o nome escolhido
+
+git checkout + nome : muda para a branch selecionada
