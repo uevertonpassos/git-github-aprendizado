@@ -5,3 +5,9 @@ git status : checa quais arquivos foram ou não atualizados
 git add "nome do arquivo" : atualiza os arquivos
 
 git add . : adiciona todos os arquivos que estão desatualizados para o controle de versão
+
+git commit -m "Commit inicial" : cria uma nova versão
+
+git remote add origin + link do repositório : escolhe pra qual repositório os arquivos serão enviados 
+
+git push --set-upstream origin master : envia os arquivos para o github escolhido
