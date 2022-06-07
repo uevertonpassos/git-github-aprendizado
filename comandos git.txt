@@ -23,3 +23,7 @@ git branch + nome : cria uma branch com o nome escolhido
 git checkout + nome : muda para a branch selecionada
 
 git merge + nome da branch : une a branch em que eu estou com a branch selecionada
+
+git pull : atualiza o código
+
+touch .gitignore : criar o gitignore 
