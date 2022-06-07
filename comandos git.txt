@@ -1,0 +1,7 @@
+git init : inicia o git na pasta selecionada
+
+git status : checa quais arquivos foram ou não atualizados
+
+git add "nome do arquivo" : atualiza os arquivos
+
+git add . : adiciona todos os arquivos que estão desatualizados para o controle de versão
